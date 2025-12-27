@@ -70,6 +70,7 @@ langchain==0.0.257
 langsmith==0.0.19
 MarkupSafe==2.1.2
 marshmallow==3.20.1
+matplotlib==3.8
 matplotlib-inline==0.1.6
 mistune==3.0.2
 msgpack==1.1.0
