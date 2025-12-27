@@ -1,0 +1,308 @@
+{
+  "black_swan": {
+    "sa": {
+      "turnos": {
+        "junior": [
+          {
+            "inicio": 6,
+            "quantidade": 3
+          },
+          {
+            "inicio": 8,
+            "quantidade": 1
+          },
+          {
+            "inicio": 12,
+            "quantidade": 1
+          }
+        ],
+        "pleno": [
+          {
+            "inicio": 9,
+            "quantidade": 1
+          },
+          {
+            "inicio": 13,
+            "quantidade": 1
+          }
+        ],
+        "senior": [
+          {
+            "inicio": 10,
+            "quantidade": 1
+          },
+          {
+            "inicio": 16,
+            "quantidade": 1
+          }
+        ]
+      },
+      "valor_objetivo": 17640.0,
+      "custo_funcionarios": 2340.0,
+      "custo_clientes_perdidos": 15300.0,
+      "num_clientes_atrasados": 51,
+      "num_clientes_nao_atendidos_final": 0
+    },
+    "brkga": {
+      "turnos": {
+        "junior": [
+          {
+            "inicio": 6,
+            "quantidade": 3
+          }
+        ],
+        "pleno": [
+          {
+            "inicio": 15,
+            "quantidade": 1
+          },
+          {
+            "inicio": 16,
+            "quantidade": 1
+          }
+        ],
+        "senior": [
+          {
+            "inicio": 8,
+            "quantidade": 1
+          },
+          {
+            "inicio": 14,
+            "quantidade": 1
+          }
+        ]
+      },
+      "valor_objetivo": 1980.0,
+      "custo_funcionarios": 1980.0,
+      "custo_clientes_perdidos": 0.0,
+      "num_clientes_atrasados": 0,
+      "num_clientes_nao_atendidos_final": 0
+    }
+  },
+  "antes_tempestade": {
+    "sa": {
+      "turnos": {
+        "junior": [
+          {
+            "inicio": 12,
+            "quantidade": 2
+          }
+        ],
+        "pleno": [
+          {
+            "inicio": 9,
+            "quantidade": 1
+          },
+          {
+            "inicio": 10,
+            "quantidade": 1
+          }
+        ],
+        "senior": [
+          {
+            "inicio": 11,
+            "quantidade": 1
+          }
+        ]
+      },
+      "valor_objetivo": 1380.0,
+      "custo_funcionarios": 1380.0,
+      "custo_clientes_perdidos": 0.0,
+      "num_clientes_atrasados": 0,
+      "num_clientes_nao_atendidos_final": 0
+    },
+    "brkga": {
+      "turnos": {
+        "pleno": [
+          {
+            "inicio": 12,
+            "quantidade": 1
+          }
+        ],
+        "senior": [
+          {
+            "inicio": 9,
+            "quantidade": 1
+          },
+          {
+            "inicio": 11,
+            "quantidade": 1
+          }
+        ]
+      },
+      "valor_objetivo": 1140.0,
+      "custo_funcionarios": 1140.0,
+      "custo_clientes_perdidos": 0.0,
+      "num_clientes_atrasados": 0,
+      "num_clientes_nao_atendidos_final": 0
+    }
+  },
+  "campanha_mkt": {
+    "sa": {
+      "turnos": {
+        "junior": [
+          {
+            "inicio": 9,
+            "quantidade": 3
+          },
+          {
+            "inicio": 11,
+            "quantidade": 1
+          }
+        ],
+        "pleno": [
+          {
+            "inicio": 10,
+            "quantidade": 2
+          }
+        ],
+        "senior": [
+          {
+            "inicio": 11,
+            "quantidade": 1
+          },
+          {
+            "inicio": 12,
+            "quantidade": 1
+          }
+        ]
+      },
+      "valor_objetivo": 2160.0,
+      "custo_funcionarios": 2160.0,
+      "custo_clientes_perdidos": 0.0,
+      "num_clientes_atrasados": 0,
+      "num_clientes_nao_atendidos_final": 0
+    },
+    "brkga": {
+      "turnos": {
+        "junior": [
+          {
+            "inicio": 9,
+            "quantidade": 1
+          },
+          {
+            "inicio": 10,
+            "quantidade": 1
+          }
+        ],
+        "pleno": [
+          {
+            "inicio": 9,
+            "quantidade": 1
+          },
+          {
+            "inicio": 11,
+            "quantidade": 2
+          }
+        ],
+        "senior": [
+          {
+            "inicio": 10,
+            "quantidade": 1
+          },
+          {
+            "inicio": 12,
+            "quantidade": 1
+          }
+        ]
+      },
+      "valor_objetivo": 2100.0,
+      "custo_funcionarios": 2100.0,
+      "custo_clientes_perdidos": 0.0,
+      "num_clientes_atrasados": 0,
+      "num_clientes_nao_atendidos_final": 0
+    }
+  },
+  "black_friday": {
+    "sa": {
+      "turnos": {
+        "junior": [
+          {
+            "inicio": 8,
+            "quantidade": 2
+          },
+          {
+            "inicio": 12,
+            "quantidade": 4
+          }
+        ],
+        "pleno": [
+          {
+            "inicio": 9,
+            "quantidade": 2
+          },
+          {
+            "inicio": 11,
+            "quantidade": 2
+          },
+          {
+            "inicio": 13,
+            "quantidade": 2
+          }
+        ],
+        "senior": [
+          {
+            "inicio": 10,
+            "quantidade": 2
+          },
+          {
+            "inicio": 14,
+            "quantidade": 1
+          }
+        ]
+      },
+      "valor_objetivo": 62140.0,
+      "custo_funcionarios": 4140.0,
+      "custo_clientes_perdidos": 58000.0,
+      "num_clientes_atrasados": 217,
+      "num_clientes_nao_atendidos_final": 15
+    },
+    "brkga": {
+      "turnos": {
+        "junior": [
+          {
+            "inicio": 8,
+            "quantidade": 5
+          }
+        ],
+        "pleno": [
+          {
+            "inicio": 10,
+            "quantidade": 2
+          },
+          {
+            "inicio": 14,
+            "quantidade": 1
+          }
+        ],
+        "senior": [
+          {
+            "inicio": 8,
+            "quantidade": 2
+          },
+          {
+            "inicio": 9,
+            "quantidade": 1
+          },
+          {
+            "inicio": 11,
+            "quantidade": 1
+          },
+          {
+            "inicio": 13,
+            "quantidade": 1
+          },
+          {
+            "inicio": 14,
+            "quantidade": 2
+          }
+        ]
+      },
+      "valor_objetivo": 4740.0,
+      "custo_funcionarios": 4740.0,
+      "custo_clientes_perdidos": 0.0,
+      "num_clientes_atrasados": 0,
+      "num_clientes_nao_atendidos_final": 0
+    }
+  }
+}
